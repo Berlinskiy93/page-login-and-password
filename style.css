@@ -13,7 +13,7 @@ body{
   align-items: center;
   min-height: 100vh;
   background: seagreen;
-  background: url(img/фон.jpg) no-repeat;
+  background: url(img/background.jpg) no-repeat;
 background-size: cover;
 background-position: center;
 }
